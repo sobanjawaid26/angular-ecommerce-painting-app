@@ -6,3 +6,7 @@ mat-card:hover {
     transform: scale(1.05);
     cursor: pointer;
 }
+
+.sort-dropdown {
+    margin-left: 50px;
+}
